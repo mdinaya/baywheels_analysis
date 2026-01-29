@@ -53,7 +53,7 @@ Examples:
 
 Outliers with extremely high membership and round-trip rates (80–90%) were removed using the IQR method.
 
-### 1.3. Seasonality and Reliability of Demans
+### 1.3. Seasonality and Reliability of Demands
 To measure station stability I calculated a Coefficient of Variation (CV) on the monthly ride counts:
 - Low CV -> reliable commuter demand
 - High CV -> seasonal, weather-sensitive usage
