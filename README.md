@@ -206,6 +206,6 @@ Stations were classified into:
 After end-to-end analysis I came to the conclusion that the biggest challenge is aligning user intent with pricing, hardware and operations.
 
 What can be done in the future:
-- convert existing behavior into suscriptions
+- convert existing behavior into subscriptions
 - reduce operational drag
 - scale to new cities with a repeatable playbook
