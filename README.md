@@ -24,7 +24,7 @@ I focused on:
 
 - Station pairings, distinguishing point-to-point commute corridors from round-trip.
 
-**Key fidings:**
+**Key findings:**
 
 Casual riders are approximately 3x more likely to be riding for sighseeing or experience (round trips) than Members, who are likely using bikes for point-to-point utility or commuting.
 
