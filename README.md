@@ -132,7 +132,7 @@ In this graph above we can see the hourly dynamic of User's behavior based on th
 ## Phase 2. Operations 
 **Goal:** Identify structural imbalances that require manual intervention.
 
-### 2.1. Sources, Sinks and Asynetric Commute
+### 2.1. Sources, Sinks and Asymetric Commute
 I analyzed net flow by station:
 
 - Sources: net negative flow (bikes leave)
